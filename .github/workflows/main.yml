@@ -2,7 +2,7 @@ name: live
 
 on:
   schedule:
-    - cron: '0 6,13,21 * * *'
+    - cron: '0 6,14,22 * * *'
 
 jobs:
   build:
